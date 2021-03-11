@@ -4,7 +4,7 @@
 - I'm interested in automating everything and cloud-native
 - I'm working with Kubernetes
 - I'm using Go and Python as main languages
-- I'm currently working on github.com/zhilyaev/helmwave
+- I'm currently working on [helmwave](https://github.com/zhilyaev/helmwave)
 - I'm not a fan of emoji's in software
 - How to reach me: [tg://r3nic1e](https://t.me/r3nic1e)
 - Prior hobby was improving smart home setup (homeassistant, rpi, nomad, consul, vault, traefik)

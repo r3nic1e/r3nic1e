@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- DevOps Teamlead @ rabota.ru
 - I'm interested in automating everything and cloud-native
 - I'm working with Kubernetes
 - I'm using Go and Python as main languages

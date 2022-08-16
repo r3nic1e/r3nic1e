@@ -7,7 +7,6 @@
 - How to reach me: [telegram](https://t.me/r3nic1e), [linkedin](https://www.linkedin.com/in/r3nic1e/)
 - Prior hobby was improving smart home setup (homeassistant, rpi, nomad, consul, vault, traefik)
 - It's all about the YAML
-- I've started and maintaining [e-graveyard project of my family](https://github.com/dumchenko/graveyard)
 
 ## My stack
 
